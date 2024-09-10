@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>pardakht</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
     <style>
         .cartnum {
             display: flex;
@@ -166,5 +166,5 @@
     </div>
 </div>
 </body>
-<script src="js/bootstrap.bundle.min.js"></script>
+<script src="bootstrap.bundle.min.js"></script>
 </html>
